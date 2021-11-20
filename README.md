@@ -1,3 +1,5 @@
-# Simple Starter
+# gen-11
 
-Simple JS build starter for simple, client-only demos.
+Boid painting experiment. 
+
+meh
